@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Galvarini Luciano</h1>
 <h3 align="left">I am a frontend developer</h3>
 
-- I’m currently working on "AoWeb-frontend" (https://github.com/AoWeb-Spring-React/aoweb-frontend)
+- I’m currently working on "Hero's Path-frontend" (https://github.com/HeroPath)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
