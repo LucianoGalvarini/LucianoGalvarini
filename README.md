@@ -74,6 +74,8 @@
   <td valign="top" width="100%">
     <div  align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=LucianoGalvarini&show_icons=true&count_private=true&hide_border=true" align="center" />
+     </div>
+     <div  align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoGalvarini&hide_border=true&layout=compact" align="center" />
     </div>
   </td>
