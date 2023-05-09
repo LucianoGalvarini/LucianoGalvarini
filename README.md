@@ -70,7 +70,7 @@
 
 
 ## Github Stats  
-<table>
+<table align="center">
   <tr>
     <td valign="top" width="50%">
       <div align="center">
