@@ -71,8 +71,8 @@
 
 ## Github Stats  
 <table><tr>
-  <td valign="top" width="100%">
-    <div  align="center">
+  <td valign="top" width="100%" align="center">
+    <div align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=LucianoGalvarini&show_icons=true&count_private=true&hide_border=true" align="center" />
      </div>
      <div  align="center">
