@@ -71,18 +71,16 @@
 
 ## Github Stats  
 <table><tr>
-  <td valign="top" width="100%" align="center">
-    <div align="center">
+  <td valign="top" width="100%">
+    <div  align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=LucianoGalvarini&show_icons=true&count_private=true&hide_border=true" align="center" />
-     </div>
-     <div  align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoGalvarini&hide_border=true&layout=compact" align="center" />
     </div>
   </td>
   </tr>
 </table>  
 
-<br/>   
+<br/>  
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
